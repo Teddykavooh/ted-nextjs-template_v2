@@ -41,7 +41,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 `node --eval "fs.writeFileSync('.prettierrc','{}\n')"` - Create an empty config file.
 
-Create a .prettierignore file to let the Prettier CLI and editors know which files to not format.
+Create a `.prettierignore` file to let the Prettier CLI and editors know which files to not format.
 
 > \# Ignore artifacts:
 >
